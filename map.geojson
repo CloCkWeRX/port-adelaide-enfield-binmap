@@ -6,7 +6,8 @@
       "properties": {
         "rub_day": "friday",
         "name": "Friday Area 1",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
@@ -117,7 +118,8 @@
       "properties": {
         "rub_day": "friday",
         "name": "Friday Area ",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
@@ -232,7 +234,8 @@
       "properties": {
         "rub_day": "thursday",
         "name": "Thursday Area 2",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
@@ -383,7 +386,8 @@
       "properties": {
         "rub_day": "thursday",
         "name": "Thursday Area 1",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
@@ -554,7 +558,8 @@
       "properties": {
         "rub_day": "wednesday",
         "name": "Wednesday Area 1",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
@@ -685,7 +690,8 @@
       "properties": {
         "rub_day": "wednesday",
         "name": "Wednesday Area 1",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
@@ -760,7 +766,8 @@
       "properties": {
         "rub_day": "wednesday",
         "name": "Wednesday Area 2",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
@@ -827,7 +834,8 @@
       "properties": {
         "rub_day": "tuesday",
         "name": "Tuesday Area 2",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
@@ -942,7 +950,8 @@
       "properties": {
         "rub_day": "monday",
         "name": "Monday Area 2",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
@@ -1125,7 +1134,8 @@
       "properties": {
         "rub_day": "monday",
         "name": "Monday Area 1",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
@@ -1236,7 +1246,8 @@
       "properties": {
         "rub_day": "tuesday",
         "name": "Tuesday Area 1",
-        "rub_weeks": 1
+        "rub_weeks": 1,
+        "rub_start": "2015-05-15"
       },
       "geometry": {
         "type": "Polygon",
