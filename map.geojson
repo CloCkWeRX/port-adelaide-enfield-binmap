@@ -817,7 +817,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "rub_day": "tuesday",
+        "name": "Tuesday Area 1"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
