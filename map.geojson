@@ -819,7 +819,7 @@
       "type": "Feature",
       "properties": {
         "rub_day": "tuesday",
-        "name": "Tuesday Area 1"
+        "name": "Tuesday Area 1,2"
       },
       "geometry": {
         "type": "Polygon",
