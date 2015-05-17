@@ -121,11 +121,13 @@
       "type": "Feature",
       "properties": {
         "rub_day": "friday",
-        "name": "Friday Area ",
+        "name": "Friday Area 2",
         "rub_weeks": 1,
         "rub_start": "2015-05-15",
         "rec_weeks": 2,
-        "grn_weeks": 2
+        "grn_weeks": 2,
+        "rec_day": "friday",
+        "grn_day": "friday"
       },
       "geometry": {
         "type": "Polygon",
@@ -243,7 +245,9 @@
         "rub_weeks": 1,
         "rub_start": "2015-05-15",
         "rec_weeks": 2,
-        "grn_weeks": 2
+        "grn_weeks": 2,
+        "rec_day": "thursday",
+        "grn_day": "thursday"
       },
       "geometry": {
         "type": "Polygon",
@@ -397,7 +401,9 @@
         "rub_weeks": 1,
         "rub_start": "2015-05-15",
         "rec_weeks": 2,
-        "grn_weeks": 2
+        "grn_weeks": 2,
+        "rec_day": "thursday",
+        "grn_day": "thursday"
       },
       "geometry": {
         "type": "Polygon",
@@ -571,7 +577,9 @@
         "rub_weeks": 1,
         "rub_start": "2015-05-15",
         "rec_weeks": 2,
-        "grn_weeks": 2
+        "grn_weeks": 2,
+        "rec_day": "wednesday",
+        "grn_day": "wednesday"
       },
       "geometry": {
         "type": "Polygon",
@@ -705,7 +713,9 @@
         "rub_weeks": 1,
         "rub_start": "2015-05-15",
         "rec_weeks": 2,
-        "grn_weeks": 2
+        "grn_weeks": 2,
+        "rec_day": "wednesday",
+        "grn_day": "wednesday"
       },
       "geometry": {
         "type": "Polygon",
@@ -783,7 +793,9 @@
         "rub_weeks": 1,
         "rub_start": "2015-05-15",
         "rec_weeks": 2,
-        "grn_weeks": 2
+        "grn_weeks": 2,
+        "rec_day": "wednesday",
+        "grn_day": "wednesday"
       },
       "geometry": {
         "type": "Polygon",
@@ -853,7 +865,9 @@
         "rub_weeks": 1,
         "rub_start": "2015-05-15",
         "rec_weeks": 2,
-        "grn_weeks": 2
+        "grn_weeks": 2,
+        "rec_day": "tuesday",
+        "grn_day": "tuesday"
       },
       "geometry": {
         "type": "Polygon",
@@ -971,7 +985,9 @@
         "rub_weeks": 1,
         "rub_start": "2015-05-15",
         "rec_weeks": 2,
-        "grn_weeks": 2
+        "grn_weeks": 2,
+        "rec_day": "monday",
+        "grn_day": "monday"
       },
       "geometry": {
         "type": "Polygon",
@@ -1157,7 +1173,9 @@
         "rub_weeks": 1,
         "rub_start": "2015-05-15",
         "rec_weeks": 2,
-        "grn_weeks": 2
+        "grn_weeks": 2,
+        "rec_day": "monday",
+        "grn_day": "monday"
       },
       "geometry": {
         "type": "Polygon",
@@ -1271,7 +1289,9 @@
         "rub_weeks": 1,
         "rub_start": "2015-05-15",
         "rec_weeks": 2,
-        "grn_weeks": 2
+        "grn_weeks": 2,
+        "rec_day": "tuesday",
+        "grn_day": "tuesday"
       },
       "geometry": {
         "type": "Polygon",
